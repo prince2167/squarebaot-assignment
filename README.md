@@ -1,5 +1,5 @@
 # React + Vite
-
+Live - https://squarebaot-assignment.vercel.app/
 Features
 
 Search Destinations: Users can input a list of cities to compare weather conditions.
