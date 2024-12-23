@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
 
-Currently, two official plugins are available:
+Search Destinations: Users can input a list of cities to compare weather conditions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Real-time Weather Data: Fetches current weather information for specified destinations.
+
+Travel Recommendation: Recommends the city with the most favorable weather conditions.
+
+User-friendly Interface: Intuitive and visually appealing design for easy navigation.
+
+Cross-platform Compatibility: Available as a web or mobile app, built using React.
